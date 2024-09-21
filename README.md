@@ -6,14 +6,15 @@ frontend:
   
   npm run dev,
 
-  host: http://localhost:5173,
+  host: http://localhost:5173
 
-  backend: 
+backend: 
   
-    cd lives-capital-back,
+  cd lives-capital-back,
     
-    npm i,
+  npm i,
     
-    npm run start
+  npm run start
 
+  host: http://localhost:5005
   
