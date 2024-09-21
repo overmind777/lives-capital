@@ -1,5 +1,6 @@
 frontend:
 
+
   cd lives-capital,
 
   npm i,
@@ -9,6 +10,7 @@ frontend:
   host: http://localhost:5173
 
 backend: 
+
   
   cd lives-capital-back,
     
